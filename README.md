@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Enzo, but I virtually use "Plugxhz" as my username.
 - 👀 I’m interested in videogames, games in general, music, computers and programming languages.
-- 🌱 I'm currently learning some languages ​​used in Front-end such as HTML, CSS and JavaScript. I'm also learning Back-end, PHP, MySQL and increasingly Python and Lua.
+- 🌱 I'm currently learning some languages ​​used in Front-end such as HTML, CSS and JavaScript. I'm also learning Back-end, PHP, MySQL, C# and increasingly Python and Lua.
 - 📫 How to reach me: You can reach me by Instagram (@enzo.xhz) and LinkedIn (Enzo Bedendo Sakatauskas).
